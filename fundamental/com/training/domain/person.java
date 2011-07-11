@@ -6,4 +6,8 @@ public class person {
 		System.out.println("ini dari person.java");
 	}
 	
+	public void kata(String id) {
+		System.out.println("Id : "+id);
+	}
+	
 }
